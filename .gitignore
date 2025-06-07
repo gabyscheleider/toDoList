@@ -1,0 +1,27 @@
+# Node.js (React)
+node_modules/
+build/
+.env
+
+# C#
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# ASP.NET
+*.dll
+*.pdb
+*.cache
+*.log
+*.dbmdl
+*.bak
+*.tmp
+*.csproj.user
+
+# Others
+.DS_Store
+Thumbs.db
